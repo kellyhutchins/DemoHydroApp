@@ -1,0 +1,30 @@
+{
+    "localStorage": {
+        "fetch": true
+    },
+    "portal": {
+        "fetch": true
+    },
+    "urlParams": [
+        "appid",
+        "basemapUrl",
+        "basemapReferenceUrl",
+        "center",
+        "components",
+        "embed",
+        "extent",
+        "find",
+        "marker",
+        "oauthappid",
+        "portalUrl",
+        "viewpoint",
+        "selectedFeature",
+        "hiddenLayers",
+        "webmap",
+        "locale"
+    ],
+    "webmap": {
+        "default": "b41545006f9c4cadb4ded6812b9853c1",
+        "fetch": true
+    }
+}
